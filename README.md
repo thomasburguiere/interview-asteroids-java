@@ -2,7 +2,11 @@
 
 ## Assignment
 
-Create a rest endpoint that returns list of Near Earth Objects from the nasa NEO Feed API. for a specific date range
+Create a rest endpoint that returns list of Near Earth Objects from the nasa NEO Feed API, for a specific date range
+
+### Additionnal tasks
+
+add possibility to only retrieve dangerous Near Earth Objects
 
 ## NEO Feed API
 
